@@ -1,1 +1,1 @@
-web: python combined_server.py
+web: gunicorn app:app
